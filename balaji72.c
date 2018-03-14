@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void) 
 {
-	int c,k;
+	intc,k;
 	scanf("%d",&c);
 	k=c+273;
 	printf("%d",k);
